@@ -1,4 +1,4 @@
-#include "stdio.h" // для vs code используется данная библиотека
+#include "stdio.h"
 #include <iostream>
 #include <ctime> // блиблиотка для отсчета секунд от 1970 года чтобы все создаваемые функцией rand() числа были разными
 
